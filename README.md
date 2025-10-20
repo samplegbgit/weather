@@ -7,3 +7,9 @@
 ## Day 2
 - Connected to free API
 - Fetches weather data for a city
+
+## Day 3
+- Saved last searched city in LocalStorage
+- Auto-loads last city on refresh
+- Final UI polish
+
